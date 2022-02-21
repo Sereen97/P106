@@ -1,0 +1,46 @@
+body
+{
+font-family: 'Bebas Neue', cursive;
+font-family: 'Noto Serif Display', serif; ;
+background: rgb(34,193,195);
+background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(45,96,253,1) 100%);
+color:aliceblue
+}
+
+.header_div
+{
+    background:#34bfb8;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top:20px;
+}
+
+.header_div p
+{
+    font-family: 'Times New Roman', Times, serif;
+    color:red;
+    letter-spacing: 2px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.main_div button
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 10px;
+    width: 130px;
+    font-weight: bold;
+    initial-letter: 3px;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    bottom: 0;
+    width:100%;
+    font-size: 20px;
+    background-color: #1e8a85;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px purple;
+}
